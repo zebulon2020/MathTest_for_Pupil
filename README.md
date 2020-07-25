@@ -2,6 +2,8 @@
 
 Java program for math quizzes for elementary school students, also a Java curriculum project.
 
+[English](README.md)  [中文](README_zh.md)  
+
 #### Project description
 
 For elementary 1~2 grade students, randomly select two integers and addition and subtraction to form an equation that requires students to solve.
@@ -24,4 +26,4 @@ Note: If you are using a MySQL database, modify the statements in DbOp.java and 
 
 #### End
 
-Thank you all for your attention.😄 😄 😄 
+Thank you all for your attention.😄 😄 😄

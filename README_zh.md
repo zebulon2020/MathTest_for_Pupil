@@ -1,8 +1,8 @@
 # MathTest_for_Pupil 小学生数学测验
 
-Java program for math quizzes for elementary school students, also a Java curriculum project.
-
 小学生数学测验的 Java 程序，也是一个 Java 课程项目。
+
+[English](README.md)    [中文](README_zh.md)
 
 #### 项目描述
 
