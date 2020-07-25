@@ -22,7 +22,7 @@ This project is a Java project and begins with a Java project development enviro
 In addition, the project uses a database, this project uses SQL Server 2008, the connected database name is **mydbname**, connected with administrator account **sa**, password **216059**, (if you want to clone it and run it locally, please modify the corresponding configuration in the DbOp.java file).
 Create a new table user in the database, and add some initial accounts to log in.
 
-Note: If you are using a MySQL database, modify the statements in DbOp.java and replace the jar in the lib directory with the corresponding MySQL package.
+**Note**: If you are using a MySQL database, modify the statements in DbOp.java and replace the jar in the lib directory with the corresponding MySQL package.
 
 #### End
 
